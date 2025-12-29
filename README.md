@@ -6,7 +6,7 @@ across theory and computational implementation.
 
 ## 📄 Paper
 
-Noetica Theory: **[Semantic Phase Theory: An Information-Theoretic Framework for Meaning and Context] ** 
+Noetica Theory: **[Semantic Phase Theory: An Information-Theoretic Framework for Meaning and Context]** 
 Author: Takahiro Meguro
 Published on Zenodo
 
