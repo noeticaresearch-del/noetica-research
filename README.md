@@ -16,7 +16,7 @@ An Information-Theoretic Framework for Meaning and Context**
 Author: Takahiro Meguro  
 Published on Zenodo
 
-🔗 [https://doi.org/10.5281/zenodo.17750901]https://doi.org/10.5281/zenodo.17750901
+🔗 [https://doi.org/10.5281/zenodo.17750901](https://doi.org/10.5281/zenodo.17750901)
 
 ---
 
