@@ -34,3 +34,17 @@ This repository is **not** the paper itself.
 The purpose is to investigate how Noetica Theory behaves
 when translated into computational systems.
 
+---
+
+## Applications / Demos
+
+### 🎵 Noetica Metronome
+A metronome application designed with a focus on **perception, bodily groove, and immersion**, rather than mere time-keeping.
+
+This app explores how rhythmic perception changes through sound design and relational structure, as an applied experiment of Noetica Theory.
+
+- 🔗 Live Demo  
+  https://noeticaresearch-del.github.io/noetica-metronome/
+
+- 💻 Source Code  
+  https://github.com/noeticaresearch-del/noetica-metronome
