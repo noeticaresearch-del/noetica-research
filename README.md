@@ -16,7 +16,7 @@ An Information-Theoretic Framework for Meaning and Context**
 Author: Takahiro Meguro  
 Published on Zenodo
 
-🔗 https://doi.org/10.5281/zenodo.17750901
+🔗 [https://doi.org/10.5281/zenodo.17750901]https://doi.org/10.5281/zenodo.17750901
 
 ---
 
@@ -44,7 +44,7 @@ A metronome application designed with a focus on **perception, bodily groove, an
 This app explores how rhythmic perception changes through sound design and relational structure, as an applied experiment of Noetica Theory.
 
 - 🔗 Live Demo  
-  [noeticaresearch-del.github.io/noetica-metronome](https://noeticaresearch-del.github.io/noetica-metronome/)
+  [https://noeticaresearch-del.github.io/noetica-metronome](https://noeticaresearch-del.github.io/noetica-metronome/)
 
 - 💻 Source Code  
-  [github.com/noeticaresearch-del/noetica-metronome](https://github.com/noeticaresearch-del/noetica-metronome)
+  [https//github.com/noeticaresearch-del/noetica-metronome](https://github.com/noeticaresearch-del/noetica-metronome)
