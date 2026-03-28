@@ -44,7 +44,5 @@ A metronome application designed with a focus on **perception, bodily groove, an
 This app explores how rhythmic perception changes through sound design and relational structure, as an applied experiment of Noetica Theory.
 
 - 🔗 Live Demo  
-  [https://noeticaresearch-del.github.io/noetica-metronome](https://noeticaresearch-del.github.io/noetica-metronome/)
+  [https://noetica-metronome.vercel.app/](https://noetica-metronome.vercel.app/)
 
-- 💻 Source Code  
-  [https//github.com/noeticaresearch-del/noetica-metronome](https://github.com/noeticaresearch-del/noetica-metronome)
